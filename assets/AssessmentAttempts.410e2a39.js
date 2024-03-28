@@ -1,0 +1,1 @@
+import{bF as e,j as s}from"./vendor.0db79331.js";import"./vendor_core_js_pure.0c656a9d.js";const o=()=>{const{assessmentId:t}=e();return s.exports.jsxDEV(s.exports.Fragment,{children:["Hi ",t]},void 0,!0)};export{o as default};
